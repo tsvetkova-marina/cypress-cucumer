@@ -1,0 +1,9 @@
+{
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://www.musala.com/",
+    "env": {
+        "allureResultsPath": "allure-results",
+        "allure": true,
+        "TAGS": "@run"
+    }
+}
